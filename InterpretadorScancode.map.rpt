@@ -1,5 +1,5 @@
 Analysis & Synthesis report for InterpretadorScancode
-Thu Jul 28 22:35:00 2016
+Thu Jul 28 23:01:15 2016
 Quartus II 64-Bit Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
 
 
@@ -41,7 +41,7 @@ applicable agreement for further details.
 +--------------------------------------------------------------------------------------+
 ; Analysis & Synthesis Summary                                                         ;
 +------------------------------------+-------------------------------------------------+
-; Analysis & Synthesis Status        ; Successful - Thu Jul 28 22:35:00 2016           ;
+; Analysis & Synthesis Status        ; Successful - Thu Jul 28 23:01:15 2016           ;
 ; Quartus II 64-Bit Version          ; 13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition ;
 ; Revision Name                      ; InterpretadorScancode                           ;
 ; Top-level Entity Name              ; InterpretadorScancode                           ;
@@ -160,20 +160,20 @@ applicable agreement for further details.
 +----------------------------+-------------+
 
 
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-; Analysis & Synthesis Source Files Read                                                                                                                                       ;
-+----------------------------------+-----------------+------------------------------------+--------------------------------------------------------------------------+---------+
-; File Name with User-Entered Path ; Used in Netlist ; File Type                          ; File Name with Absolute Path                                             ; Library ;
-+----------------------------------+-----------------+------------------------------------+--------------------------------------------------------------------------+---------+
-; LED2.bdf                         ; yes             ; User Block Diagram/Schematic File  ; C:/Desenvolvedor/Quartus/13/PROJETO IBM AT PS2/LED2.bdf                  ;         ;
-; LED1.bdf                         ; yes             ; User Block Diagram/Schematic File  ; C:/Desenvolvedor/Quartus/13/PROJETO IBM AT PS2/LED1.bdf                  ;         ;
-; LED3.bdf                         ; yes             ; User Block Diagram/Schematic File  ; C:/Desenvolvedor/Quartus/13/PROJETO IBM AT PS2/LED3.bdf                  ;         ;
-; LED4.bdf                         ; yes             ; User Block Diagram/Schematic File  ; C:/Desenvolvedor/Quartus/13/PROJETO IBM AT PS2/LED4.bdf                  ;         ;
-; LED5.bdf                         ; yes             ; User Block Diagram/Schematic File  ; C:/Desenvolvedor/Quartus/13/PROJETO IBM AT PS2/LED5.bdf                  ;         ;
-; LED6.bdf                         ; yes             ; User Block Diagram/Schematic File  ; C:/Desenvolvedor/Quartus/13/PROJETO IBM AT PS2/LED6.bdf                  ;         ;
-; LED7.bdf                         ; yes             ; User Block Diagram/Schematic File  ; C:/Desenvolvedor/Quartus/13/PROJETO IBM AT PS2/LED7.bdf                  ;         ;
-; InterpretadorScancode.bdf        ; yes             ; User Block Diagram/Schematic File  ; C:/Desenvolvedor/Quartus/13/PROJETO IBM AT PS2/InterpretadorScancode.bdf ;         ;
-+----------------------------------+-----------------+------------------------------------+--------------------------------------------------------------------------+---------+
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+; Analysis & Synthesis Source Files Read                                                                                                                                              ;
++----------------------------------+-----------------+------------------------------------+---------------------------------------------------------------------------------+---------+
+; File Name with User-Entered Path ; Used in Netlist ; File Type                          ; File Name with Absolute Path                                                    ; Library ;
++----------------------------------+-----------------+------------------------------------+---------------------------------------------------------------------------------+---------+
+; LED2.bdf                         ; yes             ; User Block Diagram/Schematic File  ; C:/Desenvolvedor/Quartus/GitHub/InterpretadorScancode/LED2.bdf                  ;         ;
+; LED1.bdf                         ; yes             ; User Block Diagram/Schematic File  ; C:/Desenvolvedor/Quartus/GitHub/InterpretadorScancode/LED1.bdf                  ;         ;
+; LED3.bdf                         ; yes             ; User Block Diagram/Schematic File  ; C:/Desenvolvedor/Quartus/GitHub/InterpretadorScancode/LED3.bdf                  ;         ;
+; LED4.bdf                         ; yes             ; User Block Diagram/Schematic File  ; C:/Desenvolvedor/Quartus/GitHub/InterpretadorScancode/LED4.bdf                  ;         ;
+; LED5.bdf                         ; yes             ; User Block Diagram/Schematic File  ; C:/Desenvolvedor/Quartus/GitHub/InterpretadorScancode/LED5.bdf                  ;         ;
+; LED6.bdf                         ; yes             ; User Block Diagram/Schematic File  ; C:/Desenvolvedor/Quartus/GitHub/InterpretadorScancode/LED6.bdf                  ;         ;
+; LED7.bdf                         ; yes             ; User Block Diagram/Schematic File  ; C:/Desenvolvedor/Quartus/GitHub/InterpretadorScancode/LED7.bdf                  ;         ;
+; InterpretadorScancode.bdf        ; yes             ; User Block Diagram/Schematic File  ; C:/Desenvolvedor/Quartus/GitHub/InterpretadorScancode/InterpretadorScancode.bdf ;         ;
++----------------------------------+-----------------+------------------------------------+---------------------------------------------------------------------------------+---------+
 
 
 +-----------------------------------------------------+
@@ -253,7 +253,7 @@ Note: For table entries with two numbers listed, the numbers in parentheses indi
 Info: *******************************************************************
 Info: Running Quartus II 64-Bit Analysis & Synthesis
     Info: Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
-    Info: Processing started: Thu Jul 28 22:34:57 2016
+    Info: Processing started: Thu Jul 28 23:01:13 2016
 Info: Command: quartus_map --read_settings_files=on --write_settings_files=off InterpretadorScancode -c InterpretadorScancode
 Info (11104): Parallel Compilation has detected 4 hyper-threaded processors. However, the extra hyper-threaded processors will not be used by default. Parallel Compilation will use 2 of the 2 physical processors detected instead.
 Info (12021): Found 1 design units, including 1 entities, in source file led2.bdf
@@ -287,9 +287,9 @@ Info (21057): Implemented 77 device resources after synthesis - the final resour
     Info (21059): Implemented 7 output pins
     Info (21061): Implemented 62 logic cells
 Info: Quartus II 64-Bit Analysis & Synthesis was successful. 0 errors, 0 warnings
-    Info: Peak virtual memory: 477 megabytes
-    Info: Processing ended: Thu Jul 28 22:35:00 2016
-    Info: Elapsed time: 00:00:03
-    Info: Total CPU time (on all processors): 00:00:03
+    Info: Peak virtual memory: 488 megabytes
+    Info: Processing ended: Thu Jul 28 23:01:15 2016
+    Info: Elapsed time: 00:00:02
+    Info: Total CPU time (on all processors): 00:00:02
 
 
